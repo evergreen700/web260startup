@@ -1,9 +1,10 @@
 # web260startup
 For the github assignment
 
-This is a commit pushed to github
+What I learned:
+git pull
+git push
+git log
+git commit -am
 
-This is another commit created in github.
-
-A similar change for step 9
-This change is for step 
+There are a lot of different ways to use git and it is a bit hard to keep them straight. When in doubt, it is important to use git log and git fetch to check the status of the files you are working on and make sure the branches aren't drifting too far appart.
